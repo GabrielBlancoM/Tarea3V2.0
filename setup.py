@@ -8,7 +8,7 @@ setup(
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/GabrielBlancoM/Tarea3.git",
+    url="https://github.com/GabrielBlancoM/Tarea3V2.0.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
