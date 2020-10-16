@@ -1,5 +1,5 @@
 
-from setuptools import setup
+from setuptools import setup, 
 
 setup(
     name='Package_example1',
@@ -11,7 +11,7 @@ setup(
     #package_dir={'':'Package_example1'},
     #scripts=['Package_example2/images.py', 'Package_example2/sound.py','Pacage_example2/text.py'],
     url="https://github.com/GabrielBlancoM/Tarea3V2.0",
-    packages=['Package_example1'],
+    packages=['Package_example2'],
     zip_safe=False
  
  )
