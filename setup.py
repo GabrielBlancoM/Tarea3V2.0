@@ -10,5 +10,6 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/GabrielBlancoM/Tarea3V2.0.git",
-    packages=['Package_example1']
+    packages=['Package_example1'],
+    zip_safe=False,
     )
