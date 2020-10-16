@@ -1,8 +1,8 @@
 
-from setuptools import setup, 
+from setuptools import setup
 
 setup(
-    name='Package_example1',
+    name='Package_example2',
     version='0.0.1',
     author="GabrielBlancoMora",
     description='Paquete para tarea 3',
